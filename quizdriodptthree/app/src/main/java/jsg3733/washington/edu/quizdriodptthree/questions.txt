@@ -1,0 +1,10 @@
+2 + 2 =
+1
+2
+3
+4
+4
+::
+Math
+Is questions refering to mathematics and involves numbers and algorithms.
+Numbers/Algorithms
